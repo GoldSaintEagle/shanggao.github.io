@@ -11,7 +11,7 @@ redirect_from:
 Background
 ======
 
-Dr. Shang is the research assistant professor in the Department of Computing in the Hong Kong Polytechnic University. He obtained his Ph.D. degree from the Hong Kong Polytechnic University in 2019, supervised by [Dr. Bin XIAO](https://www4.comp.polyu.edu.hk/~csbxiao/). He received his M.E. degree from Southeast University, China and B.S. degree from Hangzhou Dianzi University, China, in 2014 and 2010 respectively. After graduation, he worked in Microsoft China for one year.
+Dr. Shang is the research assistant professor in the Department of Computing in the Hong Kong Polytechnic University. He obtained his Ph.D. degree from the Hong Kong Polytechnic University in 2019, supervised by [Dr. Bin XIAO](https://www4.comp.polyu.edu.hk/~csbxiao/). He received his M.Eng. degree from Southeast University, China and B.Ss. degree from Hangzhou Dianzi University, China, in 2014 and 2010 respectively. After graduation, he worked in Microsoft China for one year.
 
 Research Interests
 ======

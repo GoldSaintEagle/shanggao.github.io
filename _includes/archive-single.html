@@ -57,11 +57,11 @@
     {% endif %}
 
     {% if post.citation and post.citebib%}
-    <p><a href="{{ post.citebib }}"><u><b>Recommended citation:</b></u></a> {{ post.citation }} </p>
+    <p><b>Recommended citation:</b> {{ post.citation }} <a href="{{ post.citebib }}"><u>[bib]</u></a>.</p>
     {% elsif post.citation %}
-    <p><b>Recommended citation:</b> {{ post.citation }} </p>
+    <p><b>Recommended citation:</b> {{ post.citation }}. </p>
     {% elsif post.citebib %}
-    <p><a href="{{ post.citebib }}"><u><b>Recommended bib citation</b></u></a></p>
+    <p><b>Recommended citation:</b> <a href="{{ post.citebib }}"><u>[bib]</u></a>.</p>
     {% endif %}
 
     {% if post.ppt and post.code %}

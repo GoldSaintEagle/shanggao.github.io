@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* 2019-2020: Microsoft, China
+* **Microsoft**, China, 2019-2020: 
   * Software engineer
 
-* 2020-current: the Hong Kong Polytechnic University
+* **The Hong Kong Polytechnic University**, Hong Kong SAR, 2020-current: 
   * Research assistant professor
 
 Selected Publications

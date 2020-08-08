@@ -57,7 +57,7 @@
     {% endif %}
 
     {% if post.citation and post.citebib%}
-      <p><b>Recommended citation:</b> {{ post.citation }} <a href="{{ post.citebib }}"><u>[bib]</u></a>.</p>
+      <p><b>Recommended citation:</b> {{ post.citation }} <a href="{{ post.citebib }}"><u>[bib]</u></a></p>
     {% elsif post.citation %}
       <p><b>Recommended citation:</b> {{ post.citation }}. </p>
     {% elsif post.citebib %}

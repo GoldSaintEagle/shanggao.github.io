@@ -1,8 +1,8 @@
 ---
 title: "Detection and Mitigation of DoS Attacks in Software Defined Networks"
 collection: publications
-permalink: /publication/2019-06-ToN-Detection_and_Mitigation_of_DoS_Attacks_in_Software_Defined_Networks.md
-excerpt: '1.'
+permalink: /publication/2019-06-ToN-Detection_and_Mitigation_of_DoS_Attacks_in_Software_Defined_Networks
+excerpt: 'Category: Network security, SDN security, DDoS attacks'
 date: 2019-06-01
 venue: 'IEEE/ACM Transactions on Networking (ToN)'
 paperurl: '/shanggao.github.io/files/Detection_and_Mitigation_of_DoS_Attacks_in_Software_Defined_Networks.pdf'

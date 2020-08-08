@@ -52,20 +52,24 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
+    {% if post.category %}
+      <p><b>Category:</b> {{ post.category }}.</p>
+    {% endif %}
+
     {% if post.citation and post.citebib%}
-    <p><a href="{{ post.citebib }}"><u>Recommended citation:</u></a> {{ post.citation }} </p>
+    <p><a href="{{ post.citebib }}"><u><b>Recommended citation:</b></u></a> {{ post.citation }} </p>
     {% elsif post.citation %}
-    <p>Recommended citation: {{ post.citation }} </p>
+    <p><b>Recommended citation:</b> {{ post.citation }} </p>
     {% elsif post.citebib %}
-    <p><a href="{{ post.citebib }}"><u>Recommended bib citation</u></a></p>
+    <p><a href="{{ post.citebib }}"><u><b>Recommended bib citation</b></u></a></p>
     {% endif %}
 
     {% if post.ppt and post.code %}
-      <p>Other links: <a href="{{ post.ppt }}"><u>PPT</u></a>, <a href="{{ post.code }}"><u>code</u></a>.</p>
+      <p><b>Other links:</b> <a href="{{ post.ppt }}"><u>PPT</u></a>, <a href="{{ post.code }}"><u>code</u></a>.</p>
     {% elsif post.ppt %}
-      <p>Other links: <a href="{{ post.ppt }}"><u>PPT</u></a>.</p>
+      <p><b>Other links:</b> <a href="{{ post.ppt }}"><u>PPT</u></a>.</p>
     {% elsif post.code %}
-      <p>Other links: <a href="{{ post.code }}"><u>code</u></a>.</p>
+      <p><b>Other links:</b> <a href="{{ post.code }}"><u>code</u></a>.</p>
     {% endif %}
 
   </article>

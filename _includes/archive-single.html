@@ -4,7 +4,7 @@
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
-{% endif %}Recommended citation1:
+{% endif %}Recommended citation:
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
@@ -51,13 +51,21 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation2: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+
+    {% if post.citation and post.citebib%}
+    <p><a href="{{ post.citebib }}"><u>Recommended citation:</u></a> {{ post.citation }} </p>
     {% elsif post.citation %}
-      <p>Recommended citation2: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    <p>Recommended citation: {{ post.citation }} </p>
+    {% elsif post.citebib %}
+    <p><a href="{{ post.citebib }}"><u>Recommended bib citation</u></a></p>
+    {% endif %}
+
+    {% if post.ppt and post.code %}
+      <p>Other links: <a href="{{ post.ppt }}"><u>PPT</u></a>, <a href="{{ post.code }}"><u>code</u></a>.</p>
+    {% elsif post.ppt %}
+      <p>Other links: <a href="{{ post.ppt }}"><u>PPT</u></a>.</p>
+    {% elsif post.code %}
+      <p>Other links: <a href="{{ post.code }}"><u>code</u></a>.</p>
     {% endif %}
 
   </article>

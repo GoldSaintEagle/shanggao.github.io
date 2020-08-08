@@ -21,5 +21,5 @@ I am widely interested in computer security and information security areas. Curr
 News
 ======
 - **Research Assistant Opportunity:** Research assistant positions are available for year-4 undergraduate students and graduate students, with salary about 18,000HKD/month in the areas of applied cryptography and blockchain.
-- March 2020, paper ["Detection and Mitigation of DoS Attacks in Software Defined Networks"](https://goldsainteagle.github.io/shanggao.github.io/files/Detection_and_Mitigation_of_DoS_Attacks_in_Software_Defined_Networks.pdf) is accepted by _IEEE/ACM Transactions on Networking (ToN)_.
-- July, 2019, paper "Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System" is accepted by _ACM Conference on Computer and Communications Security (CCS'19)_.
+- March 2020, paper ["Detection and Mitigation of DoS Attacks in Software Defined Networks"](publications/Detection_and_Mitigation_of_DoS_Attacks_in_Software_Defined_Networks.pdf) is accepted by _IEEE/ACM Transactions on Networking (ToN)_.
+- July, 2019, paper ["Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System"](publications/Power_Adjusting_and_Bribery_Racing_Novel_Mining_Attacks_in_the_Bitcoin_System.pdf) is accepted by _ACM Conference on Computer and Communications Security (CCS'19)_.

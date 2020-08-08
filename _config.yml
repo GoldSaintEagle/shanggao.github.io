@@ -84,7 +84,7 @@ author:
   avatar           : "GaoShang.jpg"
   bio              : "Research Assistant Professor at the Department of Computing, the Hong Kong Polytechnic University."
   location         : "PQ830, the Hong Kong PolyU"
-  employer         : "the Hong Kong Polytechnic University"
+  employer         : # "the Hong Kong Polytechnic University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wQ7NQkkAAAAJ&hl"
   email            : "shanggao@comp.polyu.edu.hk"

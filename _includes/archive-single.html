@@ -28,9 +28,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ redirbase_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ redirbase_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
     
@@ -57,19 +57,19 @@
     {% endif %}
 
     {% if post.citation and post.citebib%}
-      <p><b>Recommended citation:</b> {{ post.citation }} <a href="{{ post.citebib }}"><u>[bib]</u></a></p>
+      <p><b>Recommended citation:</b> {{ post.citation }} <a href="{{ redirbase_path }}{{ post.citebib }}"><u>[bib]</u></a></p>
     {% elsif post.citation %}
       <p><b>Recommended citation:</b> {{ post.citation }}. </p>
     {% elsif post.citebib %}
-      <p><b>Recommended citation:</b> <a href="{{ post.citebib }}"><u>[bib]</u></a></p>
+      <p><b>Recommended citation:</b> <a href="{{ redirbase_path }}{{ post.citebib }}"><u>[bib]</u></a></p>
     {% endif %}
 
     {% if post.ppt and post.code %}
-      <p><b>Other links:</b> <a href="{{ post.ppt }}"><u>PPT</u></a>, <a href="{{ post.code }}"><u>code</u></a>.</p>
+      <p><b>Other links:</b> <a href="{{ redirbase_path }}{{ post.ppt }}"><u>PPT</u></a>, <a href="{{ redirbase_path }}{{ post.code }}"><u>code</u></a>.</p>
     {% elsif post.ppt %}
-      <p><b>Other links:</b> <a href="{{ post.ppt }}"><u>PPT</u></a>.</p>
+      <p><b>Other links:</b> <a href="{{ redirbase_path }}{{ post.ppt }}"><u>PPT</u></a>.</p>
     {% elsif post.code %}
-      <p><b>Other links:</b> <a href="{{ post.code }}"><u>code</u></a>.</p>
+      <p><b>Other links:</b> <a href="{{ redirbase_path }}{{ post.code }}"><u>code</u></a>.</p>
     {% endif %}
 
   </article>

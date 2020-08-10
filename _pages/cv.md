@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in information security, Hangzhou Dianzi University, China, 2010
-* M.Eng. in information security, Southeast University, China, 2014
-* Ph.D in computer security, the Hong Kong Polytechnic University, 2019
+* B.Sc. in information security, **Hangzhou Dianzi University**, China, 2010
+* M.Eng. in information security, **Southeast University**, China, 2014
+* Ph.D in computer security, **the Hong Kong Polytechnic University**, HK SAR, 2019
 
 Work experience
 ======

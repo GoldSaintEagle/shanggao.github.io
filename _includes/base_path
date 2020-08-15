@@ -3,3 +3,9 @@
 {% else %}
   {% assign base_path = site.github.url %}
 {% endif %}
+
+{% if site.redirbaseurl %}
+  {% assign redirbase_path = site.redirbaseurl %}
+{% else %}
+  {% assign redirbaseurl_path = site.github.url %}
+{% endif %}

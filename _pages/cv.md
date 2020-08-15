@@ -29,6 +29,6 @@ Selected Publications
 - **S. Gao**, Z. Li, Z. Peng, and B. Xiao, "Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System", _in Proc. of the 26th ACM Conference on Computer and Communications Security (CCS)_, London, UK, November 11-15, 2019.
 - **S. Gao**, Z. Li, Y. Yao, B. Xiao, S. Guo, Y. Yang, "Software-Defined Firewall: Enabling Malware Traffic Detection and Programmable Security Control", _in Proc. of the ACM Asia Conference on Computer and Communications Security (ASIACCS)_, Songdo, Incheon, Korea, June 4-8, 2018.
 - **S. Gao**, Z. Li, B. Xiao and G. Wei, "Security Threats in the Data Plane of Software-Defined Networks", _IEEE Network_, Vol. 32, No. 4, July/Auguest 2018.
-- **S. Gao**, Z. Peng, B. Xiao, Q. Xiao, and Y. Song, "'SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing", _in Proc. of IEEE/ACM International Symposium on Quality of Service (IWQoS)_, Vilanova i la Geltru, Spain, June 14-16, 2017.
+- **S. Gao**, Z. Peng, B. Xiao, Q. Xiao, and Y. Song, "SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing", _in Proc. of IEEE/ACM International Symposium on Quality of Service (IWQoS)_, Vilanova i la Geltru, Spain, June 14-16, 2017.
 - **S. Gao**. Z. Peng, B. Xiao, A. Hu, K. Ren, "FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks", _in Proc. of the IEEE International Conference on Computer Communications (INFOCOM)_, Atlanta GA, USA, May 1-4, 2017.
 

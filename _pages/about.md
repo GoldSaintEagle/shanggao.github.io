@@ -21,7 +21,7 @@ _**Note:** I am **NOT** working in AI-security-related topics. If your previous 
 
 Teaching
 ======
-[Sem1 21-22] [COMP5112 Data Structures and Database Systems](https://www.comp.polyu.edu.hk/files/COMP5112_Data_Structures_and_Database_Systems_Mar_2019.pdf)
+**[COMP5112]**, _fall 21-22_, [Data Structures and Database Systems](https://www.comp.polyu.edu.hk/files/COMP5112_Data_Structures_and_Database_Systems_Mar_2019.pdf)
 
 News
 ======

@@ -17,7 +17,7 @@ Research Interests
 ======
 I am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs).
 
-_**Note:** I am **NOT** working in AI-security-related topics. If your previous research area is AI security and you connect me without explicitly claiming you would like to continue with cryptography-related topics, you probably will not get my response._
+_**Note:** I am **NOT** working in AI-security-related topics. If your previous research area is AI security (or other non-cryptographic areas) and you did not explicitly claim to change your research area to cryptography, you probably will not get my response._
 
 Teaching
 ======

@@ -17,11 +17,11 @@ Research Interests
 ======
 I am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs).
 
-_Note: I am **NOT** working in AI-security-related topics. If your previous research area is AI security and connecting me without explicitly claiming you would like to continue with cryptography-related topics, you probably will not get my response._
+_**Note:** I am **NOT** working in AI-security-related topics. If your previous research area is AI security and you connect me without explicitly claiming you would like to continue with cryptography-related topics, you probably will not get my response._
 
 Teaching
 ======
-Sem1 2021-2022, [COMP5112 Data Structures and Database Systems](https://www.comp.polyu.edu.hk/files/COMP5112_Data_Structures_and_Database_Systems_Mar_2019.pdf)
+[Sem1 21-22] [COMP5112 Data Structures and Database Systems](https://www.comp.polyu.edu.hk/files/COMP5112_Data_Structures_and_Database_Systems_Mar_2019.pdf)
 
 News
 ======

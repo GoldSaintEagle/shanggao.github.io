@@ -15,8 +15,13 @@ Dr. Shang is the research assistant professor in the Department of Computing in 
 
 Research Interests
 ======
-I am widely interested in computer security and information security areas. Currently, my research topics include network security, data privacy, applied cryptography, and blockchain system.
+I am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs).
 
+*Note:* I am *NOT* working in AI-security-related topics. If your previous research area is AI security and connecting me without explicitly claiming you would like to continue with cryptography-related topics, you probably will not get my response.
+
+Teaching
+======
+Sem1 2021-2022, [COMP5112 Data Structures and Database Systems](https://www.comp.polyu.edu.hk/files/COMP5112_Data_Structures_and_Database_Systems_Mar_2019.pdf)
 
 News
 ======

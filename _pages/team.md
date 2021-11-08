@@ -10,7 +10,7 @@ author_profile: true
 Research Students
 ======
 * Mr. **Tianyu ZHENG** (SEU), research assistant, 2021
-  * _k_-out-of-_N_ proofs, RingCT protocols
+  * *k*-out-of-*N* proofs, RingCT protocols
 
 <!--
 ![RUNOO](../images/team/zhengtianyu.jpg =150x150)

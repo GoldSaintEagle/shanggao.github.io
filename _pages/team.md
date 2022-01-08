@@ -13,6 +13,7 @@ Research Staffs
   * *k*-out-of-*N* proofs, RingCT protocols
 * Miss **Yuxi XUE** (HKU), research assistant, 2021
   * Sigma protocol
+
 <!--
 ![RUNOO](../images/team/zhengtianyu.jpg =150x150)
 <center class="half">

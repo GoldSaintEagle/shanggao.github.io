@@ -11,6 +11,7 @@ Research Staffs
 ======
 * Mr. **Tianyu ZHENG** (SEU), research assistant, 2021
   * *k*-out-of-*N* proofs, RingCT protocols
+  
 * Miss **Yuxi XUE** (HKU), research assistant, 2021
   * Sigma protocol
 

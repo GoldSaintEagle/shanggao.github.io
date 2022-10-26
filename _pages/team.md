@@ -7,15 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-Research Staffs
+Research Students
 ======
-* Mr. **Tianyu ZHENG** (SEU), research assistant, 2021
+* Mr. **Tianyu ZHENG** (SEU), PhD student, 2022
   * *k*-out-of-*N* proofs, RingCT protocols
   
+* Miss **Xun LIU** (UCAS), PhD student, 2022
+  * zk-SNARKs
+
+* Miss **Xue CHEN** (NCUT), MPhil student, 2022
+  * Signatures
+
+Research Staffs
+======
+* Mr. **Chengpeng HUANG** (JNU), research assistant, 2022
+  * zk-Rollups
+  
+<!--
+Alumni
+======
 * Miss **Yuxi XUE** (HKU), research assistant, 2021
   * Sigma protocol
 
-<!--
+
 ![RUNOO](../images/team/zhengtianyu.jpg =150x150)
 <center class="half">
   <img src="../images/team/zhengtianyu.jpg" width="150"/>

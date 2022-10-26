@@ -32,3 +32,7 @@ Selected Publications
 - **S. Gao**, Z. Peng, B. Xiao, Q. Xiao, and Y. Song, "SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing", _in Proc. of IEEE/ACM International Symposium on Quality of Service (IWQoS)_, Vilanova i la Geltru, Spain, June 14-16, 2017.
 - **S. Gao**. Z. Peng, B. Xiao, A. Hu, K. Ren, "FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks", _in Proc. of the IEEE International Conference on Computer Communications (INFOCOM)_, Atlanta GA, USA, May 1-4, 2017.
 
+Selected Projects
+======
+- **S. Gao**, Y. Guo, B. Xiao. "Anonymous DeFi: Enabling Private Transactions on Public Programmable Blockchains". General Research Fund (GRF), Hong Kong, 01/2023 - 12/2025.
+- **S. Gao**, Y. Guo, B. Xiao. "Efficient and Post-Quantum Lattice-Based Confidential Transaction Protocols in Blockchain Systems". General Research Fund (GRF), Hong Kong, 01/2022 - 12/2024.

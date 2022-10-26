@@ -23,6 +23,8 @@ Teaching
 ======
 **[COMP5112]** _fall 21-22_, [Data Structures and Database Systems](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)
 
+**[COMP5563]** _fall 22-23_, [Applied Cryptography for Financial Applications](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5563.pdf)
+
 News
 ======
 <!--

@@ -23,13 +23,12 @@ Research Staffs
 * Mr. **Chengpeng HUANG** (JNU), research assistant, 2022
   * zk-Rollups
   
-<!--
+
 Alumni
 ======
-* Miss **Yuxi XUE** (HKU), research assistant, 2021
-  * Sigma protocol
+* Miss **Yuxi XUE** (HKU), research assistant, 2021-2022
 
-
+<!--
 ![RUNOO](../images/team/zhengtianyu.jpg =150x150)
 <center class="half">
   <img src="../images/team/zhengtianyu.jpg" width="150"/>

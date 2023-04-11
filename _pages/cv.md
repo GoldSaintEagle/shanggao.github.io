@@ -25,6 +25,7 @@ Work experience
 
 Selected Publications
 ======
+- Z. Tianyu, **S. Gao**, S. Yubo, and B. Xiao, "Leaking Arbitrarily Many Secrets: Any-out-of-Many Proofs and Applications to RingCT Protocols", _IEEEM Symposium on Security and Privacy (S&P'23)_, San Francisco, CA, USA, May 22-25, 2023.
 - **S. Gao**, Z. Peng, B. Xiao, A. Hu, Y. Song, and K. Ren, "Detection and Mitigation of DoS Attacks in Software Defined Networks", _IEEE/ACM Transactions on Networking (ToN)_, Vol. 28, No. 3, June 2020.
 - **S. Gao**, Z. Li, Z. Peng, and B. Xiao, "Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System", _in Proc. of the 26th ACM Conference on Computer and Communications Security (CCS)_, London, UK, November 11-15, 2019.
 - **S. Gao**, Z. Li, Y. Yao, B. Xiao, S. Guo, Y. Yang, "Software-Defined Firewall: Enabling Malware Traffic Detection and Programmable Security Control", _in Proc. of the ACM Asia Conference on Computer and Communications Security (ASIACCS)_, Songdo, Incheon, Korea, June 4-8, 2018.

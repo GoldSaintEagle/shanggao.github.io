@@ -11,7 +11,7 @@ redirect_from:
 Background
 ======
 
-Dr. Gao is the research assistant professor in the Department of Computing in the Hong Kong Polytechnic University. He obtained his Ph.D. degree from the Hong Kong Polytechnic University in 2019, supervised by [Dr. Bin XIAO](https://www4.comp.polyu.edu.hk/~csbxiao/). He received his M.Eng. degree from Southeast University, China and B.Ss. degree from Hangzhou Dianzi University, China, in 2014 and 2010 respectively. After graduation, he worked in Microsoft China for one year.
+Dr. Gao is a research assistant professor in the Department of Computing at the Hong Kong Polytechnic University. He obtained his Ph.D. degree from the Hong Kong Polytechnic University in 2019, supervised by [Dr. Bin XIAO](https://www4.comp.polyu.edu.hk/~csbxiao/). He received his M.Eng. degree from Southeast University, China and B.Sc. degree from Hangzhou Dianzi University, China, in 2014 and 2010, respectively. After graduation, he worked in Microsoft China for one year.
 
 Research Interests
 ======
@@ -24,6 +24,8 @@ Teaching
 **[COMP5112]** _fall 21-22_, [Data Structures and Database Systems](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5112.pdf)
 
 **[COMP5563]** _fall 22-23_, [Applied Cryptography for Financial Applications](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5563.pdf)
+
+**[COMP5563]** _fall 23-24_, [Applied Cryptography for Financial Applications](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5563.pdf)
 
 News
 ======

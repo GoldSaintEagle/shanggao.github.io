@@ -35,5 +35,7 @@ Selected Publications
 
 Selected Projects
 ======
+- **S. Gao**. "Efficient Lattice-based Zero-Knowledge Proofs and Applications". National Natural Science Foundation of China Youth (NSFC Youth), Mainland China, 01/2024 - 12/2026.
+- **S. Gao**, Y. Guo, B. Xiao. "Data Availability and Decentralization of Blockchain Zero-Knowledge Rollups in Layer 2 Networks". General Research Fund (GRF), Hong Kong, 01/2024 - 12/2026.
 - **S. Gao**, Y. Guo, B. Xiao. "Anonymous DeFi: Enabling Private Transactions on Public Programmable Blockchains". General Research Fund (GRF), Hong Kong, 01/2023 - 12/2025.
 - **S. Gao**, Y. Guo, B. Xiao. "Efficient and Post-Quantum Lattice-Based Confidential Transaction Protocols in Blockchain Systems". General Research Fund (GRF), Hong Kong, 01/2022 - 12/2024.

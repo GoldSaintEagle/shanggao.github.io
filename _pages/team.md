@@ -9,43 +9,28 @@ author_profile: true
 
 Research Students
 ======
+* Mr. **Chengpeng HUANG** (JNU), PhD student, 2024
+  * Layer2 blockchain applications, polynomial commitment schemes
+
+* Miss **Chen QIAN** (SEU), PhD student, 2024
+  *  Sigma-protocols
+
+* Miss **Lizhen ZHANG** (CityU), PhD student, 2024
+  *  Lookup arguments, lattice-based Sigma-protocols
+
 * Mr. **Tianyu ZHENG** (SEU), PhD student, 2022
-  * *k*-out-of-*N* proofs, RingCT protocols
+  * RingCT protocols, recursive SNARKs
   
 * Miss **Xun LIU** (UCAS), PhD student, 2022
-  * zk-SNARKs
+  * zk-SNARKs, proof aggregation
 
-* Miss **Xue CHEN** (NCUT), MPhil student, 2022
-  * Signatures
 
 Research Staffs
 ======
-* Mr. **Chengpeng HUANG** (JNU), research assistant, 2022
-  * zk-Rollups
+* Miss **Ziyan WANG** (SEU), research assistant, 2024
   
 
 Alumni
 ======
+* Miss **Xue CHEN** (NCUT), MPhil student, 2022-2024
 * Miss **Yuxi XUE** (HKU), research assistant, 2021-2022
-
-<!--
-![RUNOO](../images/team/zhengtianyu.jpg =150x150)
-<center class="half">
-  <img src="../images/team/zhengtianyu.jpg" width="150"/>
-  Quan Chen
-</center>
-
-Research Students
-======
-
-Research Staffs
-======
-* **Microsoft**, China, 2019-2020: 
-  * Software engineer
-
-* **The Hong Kong Polytechnic University**, Hong Kong SAR, 2020-current: 
-  * Research assistant professor
-
-Former Students and RAs
-======
--->

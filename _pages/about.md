@@ -15,9 +15,9 @@ Dr. Gao is an assistant professor with a joint appointment in the Department of 
 
 Research Interests
 ======
-I am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs).
+I am interested in applied cryptography. Currently, my research topic is zero-knowledge proofs.
 
-_**Note:** I do **NOT** recruit students/RAs without a background in cryptography. If you're a beginner, please refer to the [recommended learning materials](/learn/). Before reaching out to me, you should have completed [CS255](https://crypto.stanford.edu/~dabo/cs255/syllabus.html) and Chapters 19 and 20 of ["A Graduate Course in Applied Cryptography"](https://toc.cryptobook.us/). Otherwise, you may not receive a response from me._
+_**Note:** I do **NOT** recruit students/RAs without a background in cryptography. If you're a beginner, please refer to the [recommended learning materials](./learn/). Before reaching out to me, you should have completed [CS255](https://crypto.stanford.edu/~dabo/cs255/syllabus.html) and Chapters 19 and 20 of ["A Graduate Course in Applied Cryptography"](https://toc.cryptobook.us/). Otherwise, you may not receive a response from me._
 
 Teaching
 ======

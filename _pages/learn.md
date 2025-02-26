@@ -15,7 +15,7 @@ Cryptography
 * [**Fundamentals of Cryptography**](https://www.wisdom.weizmann.ac.il/~oded/foc-book.html) by _Oded Goldreich_
 
 
-Zero Knowledge Proofs
+Zero-Knowledge Proofs
 ======
 * [**ZK MOOC**](https://rdi.berkeley.edu/zk-learning/)
 * Stanford CS355 (new): **Applied Zero Knowledge Proofs** by _Dan Boneh_ ([syllabus](https://cs355.stanford.edu/))

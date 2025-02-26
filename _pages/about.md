@@ -17,7 +17,7 @@ Research Interests
 ======
 I am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs).
 
-_**Note:** I am **NOT** working in AI-security-related topics. If your previous research area is AI security (or other non-cryptographic areas) and you did not explicitly claim to change your research topic to cryptography, you probably will not get my response._
+_**Note:** I do **NOT** recruit students/RAs without a background in cryptography. If you're a beginner, please refer to the (recommended learning materials)[]. Before reaching out to me, you should have completed (CS255)[https://crypto.stanford.edu/~dabo/cs255/syllabus.html] and Chapters 19 and 20 of ("A Graduate Course in Applied Cryptography")[https://toc.cryptobook.us/]. Otherwise, you may not receive a response from me._
 
 Teaching
 ======

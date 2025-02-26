@@ -11,13 +11,13 @@ redirect_from:
 Background
 ======
 
-Dr. Gao is a research assistant professor in the Department of Computing at the Hong Kong Polytechnic University. He obtained his Ph.D. degree from the Hong Kong Polytechnic University in 2019, supervised by [Dr. Bin XIAO](https://www4.comp.polyu.edu.hk/~csbxiao/). He received his M.Eng. degree from Southeast University, China and B.Sc. degree from Hangzhou Dianzi University, China, in 2014 and 2010, respectively. After graduation, he worked in Microsoft China for one year.
+Dr. Gao is an assistant professor with a joint appointment in the Department of Computing and the School of Accounting and Finance at the Hong Kong Polytechnic University. He obtained his Ph.D. degree from the Hong Kong Polytechnic University in 2019, supervised by [Dr. Bin XIAO](https://www4.comp.polyu.edu.hk/~csbxiao/). He received his M.Eng. degree from Southeast University, China and B.Sc. degree from Hangzhou Dianzi University, China, in 2014 and 2010, respectively. After graduation, he worked in Microsoft China for one year.
 
 Research Interests
 ======
 I am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs).
 
-_**Note:** I do **NOT** recruit students/RAs without a background in cryptography. If you're a beginner, please refer to the (recommended learning materials)[]. Before reaching out to me, you should have completed (CS255)[https://crypto.stanford.edu/~dabo/cs255/syllabus.html] and Chapters 19 and 20 of ("A Graduate Course in Applied Cryptography")[https://toc.cryptobook.us/]. Otherwise, you may not receive a response from me._
+_**Note:** I do **NOT** recruit students/RAs without a background in cryptography. If you're a beginner, please refer to the [recommended learning materials](/learn/). Before reaching out to me, you should have completed [CS255](https://crypto.stanford.edu/~dabo/cs255/syllabus.html) and Chapters 19 and 20 of ["A Graduate Course in Applied Cryptography"](https://toc.cryptobook.us/). Otherwise, you may not receive a response from me._
 
 Teaching
 ======

@@ -24,11 +24,11 @@ Research Students
 * Miss **Xun LIU** (UCAS), PhD student, 2022
   * zk-SNARKs, proof aggregation
 
-
+<!--
 Research Staffs
 ======
 * Miss **Ziyan WANG** (SEU), research assistant, 2024
-  
+-->
 
 Alumni
 ======

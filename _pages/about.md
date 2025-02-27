@@ -17,7 +17,7 @@ Research Interests
 ======
 I am interested in applied cryptography. Currently, my research topic is zero-knowledge proofs.
 
-_**Note:** I do **NOT** recruit students/RAs without a background in cryptography. If you're a beginner, please refer to the [recommended learning materials](./learn/). Before reaching out to me, you should have completed [CS255](https://crypto.stanford.edu/~dabo/cs255/syllabus.html) and Chapters 19 and 20 of ["A Graduate Course in Applied Cryptography"](https://toc.cryptobook.us/). Otherwise, you may not receive a response from me._
+_**Note:** I do **NOT** recruit students/RAs without a background in cryptography. If you're a beginner, please refer to the [recommended learning materials](./learn/). Before reaching out to me, you should have completed [CS255](https://crypto.stanford.edu/~dabo/cs255/syllabus.html) and Chapters 19 and 20 of ["A Graduate Course in Applied Cryptography"](https://toc.cryptobook.us/) (please state this in the email). Otherwise, you may not receive a response from me._
 
 Teaching
 ======
@@ -26,6 +26,10 @@ Teaching
 **[COMP5563]** _fall 22-23_, [Applied Cryptography for Financial Applications](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5563.pdf)
 
 **[COMP5563]** _fall 23-24_, [Applied Cryptography for Financial Applications](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5563.pdf)
+
+**[COMP5563]** _fall 24-25_, [Applied Cryptography for Financial Applications](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5563.pdf)
+
+**[COMP6521]** _summer 24-25_, [Cryptography and Blockchain](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP6521.pdf)
 
 News
 ======

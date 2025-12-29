@@ -31,6 +31,10 @@ Teaching
 
 **[COMP6521]** _summer 24-25_, [Cryptography and Blockchain](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP6521.pdf)
 
+**[COMP5563]** _fall 25-26_, [Applied Cryptography for Financial Applications](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5563.pdf)
+
+**[COMP6521]** _summer 25-26_, [Cryptography and Blockchain](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP6521.pdf)
+
 News
 ======
 <!--

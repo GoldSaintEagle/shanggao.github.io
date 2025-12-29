@@ -9,25 +9,28 @@ author_profile: true
 
 Research Students
 ======
-* Mr. **Chengpeng HUANG** (JNU), PhD student, 2024
+* Mr. **Chengpeng HUANG** (JNU), PhD candidate, 2024
   * Layer2 blockchain applications, polynomial commitment schemes
 
-* Miss **Chen QIAN** (SEU), PhD student, 2024
-  *  Sigma-protocols
-
-* Miss **Lizhen ZHANG** (CityU), PhD student, 2024
+* Miss **Lizhen ZHANG** (CityU), PhD candidate, 2024
   *  Lookup arguments, lattice-based Sigma-protocols
 
-* Mr. **Tianyu ZHENG** (SEU), PhD student, 2022
+* Mr. **Tianyu ZHENG** (SEU), PhD candidate, 2022
   * RingCT protocols, recursive SNARKs
   
-* Miss **Xun LIU** (UCAS), PhD student, 2022
+* Miss **Xun LIU** (UCAS), PhD candidate, 2022
   * zk-SNARKs, proof aggregation
 
 <!--
 Research Staffs
 ======
-* Miss **Ziyan WANG** (SEU), research assistant, 2024
+* Miss **Ziyan WANG** (SEU), research assistant, 2025
+
+* Mr. **Shanghua YANG** (SEU), research assistant, 2025
+
+* Mr. **Tianyu PAN** (FDU), research assistant, 2025
+
+* Mr. **Xinfeng GU** (PolyU), research assistant, 2025
 -->
 
 Alumni

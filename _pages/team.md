@@ -22,6 +22,7 @@ Research Students
   * zk-SNARKs, proof aggregation
 
 <!--
+-->
 Research Staffs
 ======
 * Miss **Ziyan WANG** (SEU), research assistant, 2025
@@ -31,7 +32,7 @@ Research Staffs
 * Mr. **Tianyu PAN** (FDU), research assistant, 2025
 
 * Mr. **Xinfeng GU** (PolyU), research assistant, 2025
--->
+
 
 Alumni
 ======
